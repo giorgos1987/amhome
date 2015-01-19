@@ -1,0 +1,12 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.1",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "currentService": {
+      "methodapi": "copy",
+      "endPoint": "File-operations",
+      "service": "db_core"
+    }
+  }
+}
